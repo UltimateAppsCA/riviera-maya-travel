@@ -1,0 +1,5 @@
+# robots.txt for Riviera Maya Travel Assistant
+User-agent: *
+Allow: /
+Disallow: /static/
+Sitemap: https://www.mayatravelassistant.com/sitemap.xml
